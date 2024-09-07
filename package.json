@@ -1,0 +1,14 @@
+{
+  "name": "cron-decoder-cli-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "decodeCronExpression": "./decodeCronExpression.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nihal",
+  "license": "ISC"
+}
